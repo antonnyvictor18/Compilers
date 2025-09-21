@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Flex/C build artifacts
+lex.yy.c
+**/saida
