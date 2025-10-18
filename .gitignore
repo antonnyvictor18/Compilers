@@ -43,3 +43,14 @@
 # Flex/C build artifacts
 lex.yy.c
 **/saida
+
+# Yacc/Bison generated files
+y.tab.c
+y.tab.h
+
+# Generated executables and intermediate files
+compilador
+interpretador
+codigo
+lex.yy.mdp.c
+lex.yy.mdp.o
